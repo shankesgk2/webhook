@@ -1,0 +1,26 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "a simple webhook server with webUI, support token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankesgk2/webhook.git"
+  },
+  "keywords": [
+    "webhook",
+    "server"
+  ],
+  "author": "DS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankesgk2/webhook/issues"
+  },
+  "homepage": "https://github.com/shankesgk2/webhook#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
